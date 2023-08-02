@@ -33,7 +33,7 @@ MiLM-6B 是由小米开发的一个大规模预训练语言模型，参数规模
 |         LLaMA-7B-hf         |  27.1   |   25.9    | 27.1  |      26.8       |    27.9    |  26.3  |
 |          Falcon-7B          |  25.8   |   24.3    | 25.8  |      26.0       |    25.8    |  25.6  |
 |          BLOOM-7B           |  22.8   |   20.2    | 21.8  |      23.3       |    23.9    |  23.3  |
-|        **MiLM-6B**          |  55.2   |   36.3    | 47.9  |      68.2       |    58.1    |  54.0  |
+|        **MiLM-6B**          |  -      |   -       | -     |      -          |    -       |  -     |
 
 <sup>模型的结果来自于[C-Eval 榜单](https://cevalbenchmark.com/static/leaderboard.html) 和 [Baichuan-7B](https://github.com/baichuan-inc/baichuan-7B)</sup><br/>
 
