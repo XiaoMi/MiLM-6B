@@ -57,3 +57,6 @@ MiLM-6B 是由小米开发的一个大规模预训练语言模型，参数规模
 | [Chinese-GLM-10B](https://github.com/THUDM/GLM)                   |   25.57   |   25.01   |   26.33   |   25.94   |   25.81   |   25.80   |
 
 <sup>模型的结果来自于[CMMLU 数据集](https://github.com/haonan-li/CMMLU/)</sup><br/>
+
+
+## MMLU
